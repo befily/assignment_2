@@ -8,7 +8,6 @@ import GUI from 'lil-gui';
 let width = window.innerWidth;
 let height = window.innerHeight;
 
-//-- GUI PAREMETERS
 //-- GUI PARAMETERS
 var gui;
 const parameters = {
